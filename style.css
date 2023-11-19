@@ -165,7 +165,7 @@ section {
 #profile {
   display: flex;
   justify-content: center;
-  gap: 5rem;
+  gap: 20rem;
   height: 80vh;
 }
 
@@ -285,6 +285,7 @@ section {
 
 .about-pic {
   border-radius: 2rem;
+  overflow-y: auto;
 }
 
 .arrow {
